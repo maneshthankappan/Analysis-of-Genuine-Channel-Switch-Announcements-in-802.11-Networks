@@ -1,4 +1,4 @@
-#Generation of Genuine Channel Switch-Announcements in 802.11 Networks
+# Generation of Genuine Channel Switch-Announcements in 802.11 Networks
 This activity describes how to trigger Wi-Fi routers or hostapd to send genuine channel switch announcements. 
 ## Introduction
 Hostapd (host access point daemon) is a user space daemon software enabling a network or wireless interface card to act as an access point and authentication server. 
