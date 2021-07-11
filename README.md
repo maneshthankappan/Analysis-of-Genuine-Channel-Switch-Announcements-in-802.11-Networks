@@ -42,6 +42,6 @@ Once the hostapd is up and running, and all clients are able to connect to it, h
 hostapd_cli 
 ```
 Above command will provide an interactive environment over command line interface as follows. 
-<p align="center">
+<p align="left">
   <img src="https://github.com/maneshthankappan/Analysis-of-Genuine-Channel-Switch-Announcements-in-802.11-Networks/blob/main/hostapd_cli_output">
 </p>
