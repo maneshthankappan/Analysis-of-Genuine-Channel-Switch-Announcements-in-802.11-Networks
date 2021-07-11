@@ -78,3 +78,5 @@ Use the following **filter** to see beacons of the AP with SSID "testnetwork"
  ```
 wlan.csa.channel_switch_mode
  ```
+ ### Analysis of Channel Switch Infomation Element
+ 
