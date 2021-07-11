@@ -62,7 +62,7 @@ is sent or channel switch occur. freq represents the frequency of the new channe
   <img src="https://github.com/maneshthankappan/Analysis-of-Genuine-Channel-Switch-Announcements-in-802.11-Networks/blob/main/Channel_info_after_channel_switch.jpg">
 </p>
 
-## **Step 1-Create an AP(Access Point) with hostapd**.
+## **Step 5-Analysis of PCAP file and channel switch announcements**.
 Please visit https://github.com/lucascouto/krackattacks-scripts) to see how to create an AP using hostapd so that Wi-Fi clients can connect to it.  
 
 
