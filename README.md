@@ -43,5 +43,5 @@ hostapd_cli
 ```
 Above command will provide an interactive environment over command line interface as follows. 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/lucascouto/mitm-images/master/mitm.png">
+  <img src="https://github.com/maneshthankappan/Analysis-of-Genuine-Channel-Switch-Announcements-in-802.11-Networks/blob/main/hostapd_cli_output">
 </p>
