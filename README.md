@@ -66,11 +66,14 @@ is sent or channel switch occur. freq represents the frequency of the new channe
 </p>
 
 ## **Step 5-Analysis of PCAP file and channel switch announcements**.
-To capture genuine channel switch announcement send by the hostapd,another wireless interface is put on monitor mode and must be in channel 11 as follows
+To capture genuine channel switch announcement send by the hostapd,another wireless interface is put on monitor mode and must be in channel 11 to capture CSA beacons on the current channel.
 ```
  ifconfig wlan0 down
  iwconfig wlan0 set monitor
  ifconfig wlan0 up
  iw wlan0 set channel 11
 ```
-
+The network trace or pcap file containing channel switch announcements can be [viewed online on cloudshark] (https://www.cloudshark.org/captures/d25ec1280611). Use the following filter to see beacons of the AP with SSID "testnetwork"
+ ```
+wlan.csa.channel_switch_mode
+ ```
