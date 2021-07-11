@@ -80,5 +80,5 @@ wlan.csa.channel_switch_mode
  ```
  ### Follwoing figure depicts the contents of a Channel Switch Announcement Infomation Element
   <p align="left">
-  <img src="https://github.com/maneshthankappan/Analysis-of-Genuine-Channel-Switch-Announcements-in-802.11-Networks/blob/main/Channel_info_after_channel_switch.jpg">
+  <img src="https://github.com/maneshthankappan/Analysis-of-Genuine-Channel-Switch-Announcements-in-802.11-Networks/blob/main/Genuine%20_CSA.png">
 </p>
