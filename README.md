@@ -13,7 +13,7 @@ interface=wlan1
 driver=nl80211
 ssid=testnetwork
 hw_mode=g
-channel=11
+channel=6
 macaddr_acl=0
 ignore_broadcast_ssid=0
 auth_algs=1
@@ -71,12 +71,14 @@ To capture genuine channel switch announcement send by the hostapd,another wirel
  ifconfig wlan0 down
  iwconfig wlan0 set monitor
  ifconfig wlan0 up
- iw wlan0 set channel 11
+ iw wlan0 set channel 6
 ```
 The **network trace or pcap file** containing channel switch announcements can be [viewed online on cloudshark](https://www.cloudshark.org/captures/a7843005db21) 
 Use the following **filter** to see beacons of the AP with SSID "testnetwork"
  ```
 wlan.csa.channel_switch_mode
  ```
- ### Analysis of Channel Switch Infomation Element
- 
+ ### Follwoing figure depicts the contents of a Channel Switch Announcement Infomation Element
+  <p align="left">
+  <img src="https://github.com/maneshthankappan/Analysis-of-Genuine-Channel-Switch-Announcements-in-802.11-Networks/blob/main/Channel_info_after_channel_switch.jpg">
+</p>
