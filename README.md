@@ -59,8 +59,10 @@ is sent or channel switch occur. freq represents the frequency of the new channe
 </p>
  Here, note that the chan_switch command is successfull (as displayed as OK) and the AP is moved to channel 11 by sending channel switch announcements(CSA) to all associated clients. Following figure shows the figure shows the switched channel in a Windows 10 machine.
  <p align="left">
-  <img src="https://github.com/maneshthankappan/Analysis-of-Genuine-Channel-Switch-Announcements-in-802.11-Networks/blob/main/chan_switch_command">
+  <img src="https://github.com/maneshthankappan/Analysis-of-Genuine-Channel-Switch-Announcements-in-802.11-Networks/blob/main/Channel_info_after_channel_switch.jpg">
 </p>
- 
+
+## **Step 1-Create an AP(Access Point) with hostapd**.
+Please visit https://github.com/lucascouto/krackattacks-scripts) to see how to create an AP using hostapd so that Wi-Fi clients can connect to it.  
 
 
