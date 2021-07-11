@@ -25,7 +25,7 @@ rsn_pairwise=CCMP
 ctrl_interface=/var/run/hostapd
 
 ```
-Note: Here the line " ctrl_interface=/var/run/hostapd" will create a client socket between hostapd and hostapd_cli program. By default, Hostapd_CLI will connect to the socket created in "/var/run/hostapd". If this line is not present in hostapd, the hostapd_cli may generate the error as follows.
+Note: Here the line " **ctrl_interface=/var/run/hostapd**" will create a client socket between hostapd and hostapd_cli program. By default, **hostapd_cli** will connect to the socket created in "/var/run/hostapd". If this line is not present in hostapd, the hostapd_cli may generate the error as follows.
 ```
 hostapd_cli v2.9
 Copyright (c) 2004-2019, Jouni Malinen <j@w1.fi> and contributors
