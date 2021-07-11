@@ -45,13 +45,14 @@ Above command will provide an interactive environment over command line interfac
 <p align="left">
   <img src="https://github.com/maneshthankappan/Analysis-of-Genuine-Channel-Switch-Announcements-in-802.11-Networks/blob/main/hostapd_cli_output">
 </p>
+
 ## Step 4- Execute channel switch command 
 The format of channel siwtch command is   **chan_switch <cs_count> <freq>**  , where cs_count represents no.of beacons after which the channel switch command
 is sent or channel switch occur. freq represents the frequency of the new channel.For this activity, please note that the current channel of the AP is 6 (see Step 2). Then the command can be executed as...
  <p align="left">
   <img src="https://github.com/maneshthankappan/Analysis-of-Genuine-Channel-Switch-Announcements-in-802.11-Networks/blob/main/chan_switch_command">
 </p>
- 
+## Step 4- Execute channel switch command  
  
  
 
