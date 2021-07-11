@@ -59,7 +59,7 @@ is sent or channel switch occur. freq represents the frequency of the new channe
   <img src="https://github.com/maneshthankappan/Analysis-of-Genuine-Channel-Switch-Announcements-in-802.11-Networks/blob/main/chan_switch_command">
 </p>
  
- Here, note that the chan_switch command is successfull (as displayed as OK) and the AP is moved to channel 11 by sending channel switch announcements(CSA) to all associated clients. [Channel frequencies can be found here](https://www.google.com)
+ Here, note that the chan_switch command is successfull (as displayed as OK) and the AP is moved to channel 11 by sending channel switch announcements(CSA) to all associated clients. [Channel frequencies can be found here](https://github.com/maneshthankappan/Analysis-of-Genuine-Channel-Switch-Announcements-in-802.11-Networks/blob/main/channel_frequencies)
  Following figure shows the figure shows the switched channel in a Windows 10 machine.
  <p align="left">
   <img src="https://github.com/maneshthankappan/Analysis-of-Genuine-Channel-Switch-Announcements-in-802.11-Networks/blob/main/Channel_info_after_channel_switch.jpg">
