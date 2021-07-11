@@ -48,8 +48,7 @@ Above command will provide an interactive environment over command line interfac
 
 ## Step 4- Execute channel switch command 
 The format of channel siwtch command is   **chan_switch <cs_count> <freq>**  , where cs_count represents no.of beacons after which the channel switch command
-is sent or channel switch occur. freq represents the frequency of the new channel.For this activity, please note that the current channel of the AP is 6 (see Step 2). 
- Before executing the channel switch command following figure shows the connected channel in a Windows 10 machine.
+is sent or channel switch occur. freq represents the frequency of the new channel.For this activity, please note that the current channel of the AP is 6 (see Step 2). Before executing the channel switch command following figure shows the connected channel in a Windows 10 machine.
  <p align="left">
   <img src=" https://github.com/maneshthankappan/Analysis-of-Genuine-Channel-Switch-Announcements-in-802.11-Networks/blob/main/Channel_info_before_channel_switch.jpg">
 </p>
