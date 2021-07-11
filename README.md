@@ -73,7 +73,7 @@ To capture genuine channel switch announcement send by the hostapd,another wirel
  ifconfig wlan0 up
  iw wlan0 set channel 6
 ```
-The **network trace or pcap file** containing channel switch announcements can be [viewed online on cloudshark](https://www.cloudshark.org/captures/a7843005db21) 
+The **network trace or pcap file** containing channel switch announcements can be [viewed online on cloudshark](https://www.cloudshark.org/captures/a7843005db21).
 Use the following **filter** to see beacons of the AP with SSID "testnetwork"
  ```
 wlan.csa.channel_switch_mode
