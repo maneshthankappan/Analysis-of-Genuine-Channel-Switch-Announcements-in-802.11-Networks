@@ -52,7 +52,8 @@ is sent or channel switch occur. freq represents the frequency of the new channe
  <p align="left">
   <img src="https://github.com/maneshthankappan/Analysis-of-Genuine-Channel-Switch-Announcements-in-802.11-Networks/blob/main/chan_switch_command">
 </p>
-## Step 4- Execute channel switch command  
+ 
+
  
  
 
