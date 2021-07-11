@@ -42,3 +42,6 @@ Once the hostapd is up and running, and all clients are able to connect to it, h
 hostapd_cli 
 ```
 Above command will provide an interactive environment over command line interface as follows. 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/lucascouto/mitm-images/master/mitm.png">
+</p>
