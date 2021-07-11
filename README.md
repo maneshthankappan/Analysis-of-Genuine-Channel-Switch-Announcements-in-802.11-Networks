@@ -52,7 +52,7 @@ is sent or channel switch occur. freq represents the frequency of the new channe
  
  hello
 <p align="left">
-  <img src="https://github.com/maneshthankappan/Analysis-of-Genuine-Channel-Switch-Announcements-in-802.11-Networks/blob/main/Channel_info_after_channel_switch.jpg">
+  <img src="https://github.com/maneshthankappan/Analysis-of-Genuine-Channel-Switch-Announcements-in-802.11-Networks/blob/main/Channel_info_before_channel_switch.jpg">
 </p>
  
  Then the command can be executed as...
