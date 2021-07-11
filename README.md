@@ -66,6 +66,11 @@ is sent or channel switch occur. freq represents the frequency of the new channe
 </p>
 
 ## **Step 5-Analysis of PCAP file and channel switch announcements**.
-Please visit https://github.com/lucascouto/krackattacks-scripts) to see how to create an AP using hostapd so that Wi-Fi clients can connect to it.  
-
+To capture genuine channel switch announcement send by the hostapd,another wireless interface is put on monitor mode and must be in channel 11 as follows
+```
+ ifconfig wlan0 down
+ iwconfig wlan0 set monitor
+ ifconfig wlan0 up
+ iw wlan0 set channel 11
+```
 
