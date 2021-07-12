@@ -78,7 +78,7 @@ Use the following **filter** to see beacons of the AP with SSID "testnetwork"
  ```
 wlan.csa.channel_switch_mode
  ```
- ### Follwoing figure depicts the contents of a Channel Switch Announcement Infomation Element
+ ### Following figure depicts the contents of a Channel Switch Announcement Infomation Element
   <p align="left">
   <img src="https://github.com/maneshthankappan/Analysis-of-Genuine-Channel-Switch-Announcements-in-802.11-Networks/blob/main/Genuine%20_CSA.png">
 </p>
