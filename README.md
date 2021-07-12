@@ -1,5 +1,5 @@
 # Invoking Genuine Channel Switch-Announcements in 802.11 Networks
-This activity describes how to trigger Wi-Fi routers or hostapd to send genuine channel switch announcements. 
+This activity describes how to invoke Wi-Fi routers or hostapd to send genuine channel switch announcements. 
 ## Introduction
 Hostapd (host access point daemon) is a user space daemon software enabling a network or wireless interface card to act as an access point and authentication server. 
 hostapd_cli is a frontend program to interact with hostapd. It is used to query the status of hostapd and set parameters through command line interface.In this activity, hostapd_cli is used to send channel switch command over the control interface on which hostapd is running. Following are the detailed steps..
