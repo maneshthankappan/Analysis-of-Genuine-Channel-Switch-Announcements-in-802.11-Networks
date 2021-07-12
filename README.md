@@ -83,4 +83,4 @@ wlan.csa.channel_switch_mode
   <img src="https://github.com/maneshthankappan/Analysis-of-Genuine-Channel-Switch-Announcements-in-802.11-Networks/blob/main/Genuine%20_CSA.png">
 </p>
  
-## **Step 3-Run the hostapd_cli **
+**Step 3-Run the hostapd_cli **
