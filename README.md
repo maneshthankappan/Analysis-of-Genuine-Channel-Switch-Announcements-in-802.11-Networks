@@ -5,7 +5,7 @@ Hostapd (host access point daemon) is a user space daemon software enabling a ne
 hostapd_cli is a frontend program to interact with hostapd. It is used to query the status of hostapd and set parameters through command line interface.In this activity, hostapd_cli is used to send channel switch command over the control interface on which hostapd is running. Following are the detailed steps..
 
 ## Step 1-Create an AP(Access Point) with hostapd.
-Please visit https://github.com/lucascouto/krackattacks-scripts) to see how to create an AP using hostapd so that Wi-Fi clients can connect to it.  
+Please visit [Link under construction] to see how to create an AP using hostapd so that Wi-Fi clients can connect to it.  
 
 ## Step 2-Update the hostapd.conf file with the control interface as follows
 ```
