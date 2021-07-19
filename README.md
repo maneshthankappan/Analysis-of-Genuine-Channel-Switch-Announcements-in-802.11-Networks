@@ -83,4 +83,10 @@ wlan.csa.channel_switch_mode
   <img src="https://github.com/maneshthankappan/Analysis-of-Genuine-Channel-Switch-Announcements-in-802.11-Networks/blob/main/Genuine%20_CSA.png">
 </p>
  
+## **Step 6-Analysis of Network behavior during channel switch announcements**.
+To capture genuine channel switch announcement send by the hostapd,another wireless interface is put on monitor mode and must be in channel 11 to capture CSA beacons on the current channel.
+ 
+ ### **Summary of Analysis**.
+To capture genuine channel switch announcement send by the hostapd,another wireless interface is put on monitor mode and must be in channel 11 to capture CSA beacons on the current channel.
+ 
  ### References
