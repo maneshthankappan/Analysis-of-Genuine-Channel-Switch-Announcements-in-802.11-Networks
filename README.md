@@ -84,9 +84,10 @@ wlan.csa.channel_switch_mode
 </p>
  
 ## **Step 6-Analysis of Network behavior during channel switch announcements**.
+ <p align="left">
 The video provided below explins the network behavior when genuine channel switch happens in WPA2 networks.
-<p align="left">
- [![Analysis of Network behavior during channel switch announcements](https://i9.ytimg.com/vi_webp/sHM2dwAD1_I/mqdefault.webp?v=60f573ef&sqp=CNDu1YcG&rs=AOn4CLCKVEI35CxxkzQRi-hWc2Db9P19DQ)](https://youtu.be/sHM2dwAD1_I)
+
+ [[Analysis of Network behavior during channel switch announcements](https://i9.ytimg.com/vi_webp/sHM2dwAD1_I/mqdefault.webp?v=60f573ef&sqp=CNDu1YcG&rs=AOn4CLCKVEI35CxxkzQRi-hWc2Db9P19DQ)](https://youtu.be/sHM2dwAD1_I)
  </p>
  ### **Summary of Analysis**.
 To capture genuine channel switch announcement send by the hostapd,another wireless interface is put on monitor mode and must be in channel 11 to capture CSA beacons on the current channel.
