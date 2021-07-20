@@ -88,6 +88,10 @@ The video provided below narrates the network behavior when genuine channel swit
 [![Analysis of Network behavior during channel switch announcements](https://github.com/maneshthankappan/Analysis-of-Genuine-Channel-Switch-Announcements-in-802.11-Networks/blob/main/Tumb.jpg)](https://youtu.be/sHM2dwAD1_I)
 
  ### **Summary of Analysis**.
-To capture genuine channel switch announcement
- 
+  * Channel Swicth Announcements are sent through beacons or probe responses over current channel to inform clients about imminent channel switch
+  * Once channel switch occurs, all the beacons or probe responses from the AP will appear only on new channel
+  * There will not be same beacons (having same SSID and BSSID) on two different channel in a Wi-Fi environment
+  * Normally no disssoaiction or decuthentication frames are found if all the clients are connected properly with the real AP. However, some   
+    decuthentications/disassocation may occur due to the changes in the client's state machine, but they are in quite reasonable quantiy.
+   
  ### References
